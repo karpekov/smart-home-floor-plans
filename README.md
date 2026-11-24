@@ -1,5 +1,7 @@
 # Smart-home floor plans: CASAS Milan, Aruba, Cairo and Orange4Home
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24516389.svg)](https://doi.org/10.5281/zenodo.24516389)
+
 Re-drawn floor plans of four public smart-home datasets from CASAS and Orange4Home, with the position, room and fixture of every sensor. The original dataset layouts are scans or sketches of varying quality; these versions share one visual style, show furniture and fixtures (bed, couch, medicine cabinet, etc.) and mark each sensor's coverage, so they can be used directly in papers, annotation tools and sensor-replay visualizations.
 
 ![Preview](preview.png)

@@ -3,6 +3,8 @@ message: "If you use these floor plans, please cite the DISCOVER paper and the o
 title: "Smart-home floor plans: CASAS Milan, Aruba, Cairo and Orange4Home"
 type: dataset
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24516389
+repository-code: "https://github.com/karpekov/smart-home-floor-plans"
 authors:
   - family-names: Karpekov
     given-names: Alexander
