@@ -1,0 +1,41 @@
+sensor_id,type,room,fixture,x,y
+D001,door,Front door,on front door,321.5,477.0
+D002,kitchen cabinet,Kitchen,on the back door,225.5,32.0
+D003,closet door,Closet,closet door,341.0,182.5
+D004,garage door,Garage,door,451.0,31.5
+M001,motion,Master bedroom,near closet,512.0,436.0
+M002,motion,Master bedroom,near the nightstand,389.5,433.0
+M003,motion,Master bedroom,near the nightstand close to the entrance,392.5,381.0
+M004,motion,Master bathroom,doorway to the master bathroom,587.0,323.0
+M005,motion,Master bedroom,,461.5,333.5
+M006,motion,Master bedroom,bedroom doorway,359.0,330.5
+M007,motion,Master bedroom,between the bed and the toilet and bathroom,481.5,376.5
+M008,motion,Hallway,,337.5,330.5
+M009,motion,Living,couch left side seat,268.5,342.5
+M010,motion,Living,couch right side seat,268.5,401.5
+M011,motion,Hallway,home entrance aisle near the front door,321.5,464.5
+M012,motion,Living,,164.0,407.0
+M013,motion,Living,,155.0,307.0
+M014,motion,Dining,dining table area,169.0,205.0
+M015,motion,Kitchen,,115.5,127.0
+M016,motion,Kitchen,kitchen back door,224.5,43.5
+M017,motion,Kitchen,,228.5,75.5
+M018,motion,Kitchen,,238.5,140.5
+M019,motion,Kitchen,,172.5,109.0
+M020,motion,Living,,188.5,332.5
+M021,motion,Hallway,,324.0,221.0
+M022,motion,Hallway,,443.5,221.5
+M023,motion,Guest bedroom,near the bed,495.0,182.5
+M024,motion,Guest bedroom,area sensor,612.0,222.0
+M025,motion,Office,,663.5,143.0
+M026,motion,Office,desk,627.0,70.5
+M027,motion,Office,,611.5,100.5
+M028,motion,Office,,494.0,137.0
+M029,motion,Hallway,near the garage door,430.5,84.0
+M030,motion,Hallway,near the garage door,452.0,44.0
+M031,motion,Closet,,333.0,172.0
+T001,temperature,Master bedroom,,407.0,367.0
+T002,temperature,Living,,96.5,403.0
+T003,temperature,Kitchen,,89.5,140.5
+T004,temperature,Hallway,,332.0,195.0
+T005,temperature,,,,

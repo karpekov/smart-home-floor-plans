@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use these floor plans, please cite the DISCOVER paper and the original datasets (see README)."
+title: "Smart-home floor plans: CASAS Milan, Aruba, Cairo and Orange4Home"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Karpekov
+    given-names: Alexander
+    orcid: "https://orcid.org/0009-0006-5317-2991"
+    affiliation: Georgia Institute of Technology
+keywords:
+  - smart home
+  - floor plan
+  - ambient sensors
+  - CASAS
+  - Orange4Home
+  - human activity recognition
+preferred-citation:
+  type: article
+  title: "DISCOVER: Identifying Patterns of Daily Living in Human Activities from Smart Home Data"
+  journal: "ACM Transactions on Intelligent Systems and Technology"
+  year: 2026
+  notes: "Under revision"
+  authors:
+    - family-names: Karpekov
+      given-names: Alexander
+      orcid: "https://orcid.org/0009-0006-5317-2991"
+    - family-names: Iyer
+      given-names: Archith
+      orcid: "https://orcid.org/0009-0002-3559-6038"
+    - family-names: Dhekane
+      given-names: Sourish Gunesh
+      orcid: "https://orcid.org/0009-0004-0035-819X"
+    - family-names: Chernova
+      given-names: Sonia
+      orcid: "https://orcid.org/0000-0001-6320-0825"
+    - family-names: Plötz
+      given-names: Thomas
+      orcid: "https://orcid.org/0000-0002-1243-7563"

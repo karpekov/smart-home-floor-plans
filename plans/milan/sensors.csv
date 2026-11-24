@@ -1,0 +1,34 @@
+sensor_id,type,room,fixture,x,y
+D001,door,House entrance,front entrance door,1226.5,1296.0
+D002,door,House entrance,coat cabinet door at the entrance,1174.0,1148.5
+D003,door,Kitchen,medicine cabinet door,526.5,1279.0
+M001,motion,House entrance,at home entrance,1225.0,1211.0
+M002,motion,House entrance,,1225.0,1082.0
+M003,motion,Dining room,dining table,978.5,1162.0
+M004,motion,Living room,armchair,888.5,396.0
+M005,motion,Living room,,1082.0,105.5
+M006,motion,Office,office doorway,825.5,139.5
+M007,motion,Office,working desk,513.0,232.5
+M008,motion,Office,TV armchair,737.5,387.5
+M009,motion,Aisle near laundry,,672.5,657.5
+M010,motion,Aisle near kitchen,,762.5,961.5
+M011,motion,Aisle near kitchen,,659.0,961.5
+M012,motion,Kitchen,,785.0,1158.5
+M013,motion,Master bathroom,,467.0,615.0
+M014,motion,Kitchen,medicine and pill cabinet,496.0,1240.0
+M015,motion,Kitchen,fridge,499.5,1112.5
+M016,motion,Kitchen,,548.5,1022.5
+M017,motion,Guest bathroom,,616.5,866.5
+M018,motion,Guest bathroom,,447.0,854.5
+M019,motion,Aisle near laundry,,616.5,518.0
+M020,motion,Master bedroom,,193.5,401.0
+M021,motion,Master bedroom,bed,120.5,227.5
+M022,motion,Kitchen,stove,689.5,1218.0
+M023,motion,Kitchen,,611.5,1174.0
+M024,motion,Guest bedroom,,243.0,1162.0
+M025,motion,Master bathroom,,283.5,705.0
+M026,motion,Office,,666.0,238.0
+M027,motion,Living room,,1011.0,796.5
+M028,motion,Master bedroom,,294.0,340.0
+T001,temperature,Kitchen,,773.0,1236.5
+T002,temperature,Aisle near kitchen,,606.5,953.0

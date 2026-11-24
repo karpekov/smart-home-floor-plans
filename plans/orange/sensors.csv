@@ -1,0 +1,83 @@
+sensor_id,type,room,fixture,x,y
+bathroom_door,door,Bathroom,door,599.0,1063.0
+bathroom_light1,light,Bathroom,light 1,310.0,1200.0
+bathroom_light2,light,Bathroom,light 2,406.0,1242.0
+bathroom_presence,presence,Bathroom,presence,418.0,1128.0
+bathroom_shower_door,door,Bathroom,shower door,257.0,1104.0
+bathroom_switch_bottom_left,switch,Bathroom,switch bottom left,554.0,1214.0
+bathroom_switch_bottom_right,switch,Bathroom,switch bottom right,577.0,1214.0
+bathroom_switch_top_left,switch,Bathroom,switch top left,554.0,1191.0
+bathroom_switch_top_right,switch,Bathroom,switch top right,577.0,1191.0
+bedroom_closet_door,door,Bedroom,closet door,1540.0,324.0
+bedroom_door,door,Bedroom,door,1340.0,943.0
+bedroom_drawer1,door,Bedroom,drawer 1,223.0,591.0
+bedroom_drawer2,door,Bedroom,drawer 2,223.0,702.0
+bedroom_light1,light,Bedroom,light 1,346.0,366.0
+bedroom_light2,light,Bedroom,light 2,1366.0,516.0
+bedroom_light3,light,Bedroom,light 3,346.0,852.0
+bedroom_light4,light,Bedroom,light 4,1282.0,786.0
+bedroom_presence,presence,Bedroom,presence,859.0,654.0
+bedroom_shutter1,shutter,Bedroom,shutter 1,660.0,232.0
+bedroom_shutter2,shutter,Bedroom,shutter 2,1106.0,232.0
+bedroom_switch_bottom_left,switch,Bedroom,switch bottom left,1482.0,898.0
+bedroom_switch_bottom_right,switch,Bedroom,switch bottom right,1504.0,898.0
+bedroom_switch_middle_left,switch,Bedroom,switch middle left,1482.0,875.0
+bedroom_switch_middle_right,switch,Bedroom,switch middle right,1504.0,875.0
+bedroom_switch_top_left,switch,Bedroom,switch top left,1482.0,852.0
+bedroom_switch_top_right,switch,Bedroom,switch top right,1504.0,852.0
+entrance_door,door,Entrance,door,212.0,2759.0
+entrance_light1,light,Entrance,light 1,208.0,1910.0
+entrance_switch_left,switch,Entrance,switch left,307.0,2648.0
+kitchen_cupboard1,door,Kitchen,cupboard 1,487.0,1697.0
+kitchen_cupboard2,door,Kitchen,cupboard 2,580.0,1770.0
+kitchen_cupboard3,door,Kitchen,cupboard 3,682.0,1770.0
+kitchen_cupboard4,door,Kitchen,cupboard 4,784.0,1770.0
+kitchen_cupboard5,door,Kitchen,cupboard 5,886.0,1770.0
+kitchen_fridge_door,door,Kitchen,fridge door,504.0,2031.0
+kitchen_light1,light,Kitchen,light 1,574.0,1856.0
+kitchen_light2,light,Kitchen,light 2,856.0,1994.0
+kitchen_presence,presence,Kitchen,presence,640.0,2036.0
+kitchen_switch_bottom_left,switch,Kitchen,switch bottom left,361.0,2173.0
+kitchen_switch_bottom_right,switch,Kitchen,switch bottom right,384.0,2173.0
+kitchen_switch_top_left,switch,Kitchen,switch top left,361.0,2150.0
+kitchen_switch_top_right,switch,Kitchen,switch top right,384.0,2150.0
+livingroom_light1,light,Living room,light 1,1207.0,2234.0
+livingroom_light2,light,Living room,light 2,1834.0,2144.0
+livingroom_presence_couch,presence,Living room,presence couch,1633.0,2367.0
+livingroom_presence_table,presence,Living room,presence table,1207.0,1974.0
+livingroom_shutter1,shutter,Living room,shutter 1,1438.0,1649.0
+livingroom_shutter2,shutter,Living room,shutter 2,1664.0,1690.0
+livingroom_shutter3,shutter,Living room,shutter 3,1829.0,1823.0
+livingroom_shutter4,shutter,Living room,shutter 4,2029.0,2105.0
+livingroom_shutter5,shutter,Living room,shutter 5,2149.0,2313.0
+livingroom_switch1_bottom_left,switch,Living room,switch 1 bottom left,802.0,2504.0
+livingroom_switch1_top_left,switch,Living room,switch 1 top left,802.0,2482.0
+livingroom_switch1_top_right,switch,Living room,switch 1 top right,825.0,2482.0
+livingroom_switch2_top_left,switch,Living room,switch 2 top left,1252.0,1661.0
+livingroom_switch2_top_right,switch,Living room,switch 2 top right,1275.0,1661.0
+livingroom_tv_status,tv,Living room,tv status,1984.0,2364.0
+livingroom_window1,door,Living room,window 1,1438.0,1626.0
+office_door,door,Office,door,1463.0,1068.0
+office_light,light,Office,light,1705.0,1026.0
+office_presence,presence,Office,presence,1990.0,1026.0
+office_shutter,shutter,Office,shutter,2239.0,1367.0
+office_switch_left,switch,Office,switch left,1495.0,1206.0
+office_switch_middle,switch,Office,switch middle,1518.0,1206.0
+office_switch_right,switch,Office,switch right,1541.0,1206.0
+office_tv_status,tv,Office,tv status,1846.0,1353.0
+office_window,door,Office,window,2239.0,1390.0
+staircase_light,light,Staircase,light,1246.0,2610.0
+staircase_switch_left,switch,Staircase,switch left,610.0,2482.0
+staircase_switch_right,switch,Staircase,switch right,633.0,2482.0
+toilet_light,light,Toilet,light,382.0,2648.0
+toilet_switch_left,switch,Toilet,switch left,367.0,2582.0
+toilet_switch_right,switch,Toilet,switch right,390.0,2582.0
+walkway_light,light,Walkway,light,1294.0,1062.0
+walkway_switch1_bottom_left,switch,Walkway,switch 1 bottom left,1414.0,1232.0
+walkway_switch1_bottom_right,switch,Walkway,switch 1 bottom right,1437.0,1232.0
+walkway_switch1_top_left,switch,Walkway,switch 1 top left,1414.0,1209.0
+walkway_switch1_top_right,switch,Walkway,switch 1 top right,1437.0,1209.0
+walkway_switch2_bottom_left,switch,Walkway,switch 2 bottom left,640.0,1001.0
+walkway_switch2_bottom_right,switch,Walkway,switch 2 bottom right,663.0,1001.0
+walkway_switch2_top_left,switch,Walkway,switch 2 top left,640.0,978.0
+walkway_switch2_top_right,switch,Walkway,switch 2 top right,663.0,978.0

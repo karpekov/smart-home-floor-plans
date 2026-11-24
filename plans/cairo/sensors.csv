@@ -1,0 +1,33 @@
+sensor_id,type,room,fixture,x,y
+M001,motion,Office,,359.5,306.8
+M002,motion,Hallway,,490.0,183.2
+M003,motion,Hallway,,418.5,182.5
+M004,motion,Guest bedroom,,520.0,305.8
+M005,motion,Bedroom,,622.2,99.8
+M006,motion,Bedroom,,490.8,159.0
+M007,motion,Bedroom,,492.5,56.8
+M008,motion,Bedroom,bed,567.0,121.8
+M009,motion,Bedroom,bed,590.5,58.5
+M010,motion,Stairs,second floor stairs,387.8,182.5
+M011,motion,Stairs,stairs to the top floor,265.2,304.2
+M012,motion,Kitchen,,251.5,273.5
+M013,motion,Living,couch left seat,201.2,313.2
+M014,motion,Stairs,stairs to the basement,267.0,347.2
+M015,motion,Entrance,entry door,241.8,436.5
+M016,motion,Living,,162.2,390.2
+M017,motion,Living,couch right seat,143.5,314.0
+M018,motion,Living,,82.0,340.0
+M019,motion,Kitchen,,142.0,268.5
+M020,motion,Dining,,95.0,252.2
+M021,motion,Kitchen,pantry,250.8,202.0
+M022,motion,Kitchen,,173.5,201.2
+M023,motion,Living,,37.2,408.0
+M024,motion,Dining,dining table,37.2,168.0
+M025,motion,Basement,,396.0,582.5
+M026,motion,Laundry,,395.0,408.0
+M027,motion,Garage door,garage entrance door,520.0,370.8
+T001,temperature,,,,
+T002,temperature,,,,
+T003,temperature,,,,
+T004,temperature,,,,
+T005,temperature,,,,
