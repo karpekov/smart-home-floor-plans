@@ -12,7 +12,7 @@ We originally redesigned these plans for the human labeling study of the [DISCOV
 |---|---|---|---|---|
 | Milan | CASAS [1] | 1 | 33 (motion, door, temperature) | [`plans/milan`](plans/milan) |
 | Aruba | CASAS [1] | 1 | 40 (motion, door, temperature) | [`plans/aruba`](plans/aruba) |
-| Cairo | CASAS [1] | 3 (ground, top, basement) | 32 (motion, temperature) | [`plans/cairo`](plans/cairo) |
+| Cairo | CASAS [1] | 3 | 32 (motion, temperature) | [`plans/cairo`](plans/cairo) |
 | Orange4Home | Orange4Home [2] | 2 | 82 (presence, door, light, switch, shutter, TV) | [`plans/orange`](plans/orange) |
 
 Each folder contains:
