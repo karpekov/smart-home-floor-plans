@@ -18,9 +18,10 @@ keywords:
 preferred-citation:
   type: article
   title: "DISCOVER: Identifying Patterns of Daily Living in Human Activities from Smart Home Data"
-  journal: "ACM Transactions on Intelligent Systems and Technology"
-  year: 2026
-  notes: "Under revision"
+  journal: "arXiv preprint arXiv:2503.01733"
+  year: 2025
+  doi: "10.48550/arXiv.2503.01733"
+  url: "https://arxiv.org/abs/2503.01733"
   authors:
     - family-names: Karpekov
       given-names: Alexander
