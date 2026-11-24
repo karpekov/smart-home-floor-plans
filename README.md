@@ -13,7 +13,7 @@ We originally redesigned these plans for the human labeling study of the [DISCOV
 | Milan | CASAS [1] | 1 | 33 (motion, door, temperature) | [`plans/milan`](plans/milan) |
 | Aruba | CASAS [1] | 1 | 40 (motion, door, temperature) | [`plans/aruba`](plans/aruba) |
 | Cairo | CASAS [1] | 3 (ground, top, basement) | 32 (motion, temperature) | [`plans/cairo`](plans/cairo) |
-| Orange4Home | Orange4Home [2] (Amiqual4Home apartment) | 2 | 82 (presence, door, light, switch, shutter, TV) | [`plans/orange`](plans/orange) |
+| Orange4Home | Orange4Home [2] | 2 | 82 (presence, door, light, switch, shutter, TV) | [`plans/orange`](plans/orange) |
 
 Each folder contains:
 
@@ -40,7 +40,7 @@ Coordinates match the SVG `viewBox`, so they can be drawn on the SVG directly, o
 ## Notes and limitations
 
 - **Sensor positions are approximate.** They are placed by hand from the original layouts and are meant for visualization, not for metric distances. A few sensors sit next to, rather than on, their marker on the plan.
-- **Orange4Home** documents only the room of each sensor. Positions inside a room are schematic: presence sensors over the named area, contact sensors on their door, cupboard or drawer, shutters on windows, lights on the ceiling. Walls, doors and furniture follow the Amiqual4Home floor-plan PDFs.
+- **Orange4Home** documents only the room of each sensor. Positions inside a room are schematic: presence sensors over the named area, contact sensors on their door, cupboard or drawer, shutters on windows, lights on the ceiling. Walls, doors and furniture follow the original Orange4Home floor plans [2].
 - **Rooms corrected against the floor plan.** Where the original metadata contradicts the layout, the plan wins: Milan M003 (dining table), M006 (office doorway); Aruba M004, M006, M029, M031, D003; Cairo M011, M014 (stairs), M024 (dining table).
 - **Unknown locations.** Cairo's temperature sensors (T001–T005) and Aruba's T005 have no documented location and have empty `room`, `x` and `y`.
 - The plans contain no data from the datasets themselves. To use the sensor data, obtain it from its source under its own terms.
